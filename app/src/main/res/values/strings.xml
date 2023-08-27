@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Contact</string>
+    <string name="alia">"Alia"</string>
+    <string name="deepika">"Deepika"</string>
+    <string name="samntha">Samantha</string>
+    <string name="kajal">Kajal</string>
+    <string name="harika">Harika</string>
+    <string name="asmita">Asmita</string>
+    <string name="yami">Yami</string>
+    <string name="puja">Puja</string>
+    <string name="alia_num">+91-7874567953</string>
+    <string name="deepika_num">+91-7874347953</string>
+    <string name="samntha_num">+91-7873467953</string>
+    <string name="kajal_num">+91-7879067953</string>
+    <string name="harika_num">+91-7564567953</string>
+    <string name="asmita_num">+91-8974567953</string>
+    <string name="yami_num">+91-3474567953</string>
+    <string name="puja_num">+91-5674567953</string>
+
+
+
+
+
+
+</resources>
